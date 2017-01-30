@@ -1,0 +1,1 @@
+# This is the 0x00. Vagrant project for Day 0.
