@@ -1,1 +1,4 @@
-The command to cut is C-x C-y
+The command to cut an entire line is:
+
+Click where you want to start the cut C-k
+Move to the end to yank C-y
