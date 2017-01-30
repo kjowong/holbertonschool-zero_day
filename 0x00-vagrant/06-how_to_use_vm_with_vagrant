@@ -1,0 +1,3 @@
+How to use VMs with Vagrant?
+
+You can use VMs with Vagrant by opening vagrant and configuring the virutal machine's base to run it. Once you run vagrant, you are then using Vagrant through your vitual machine. 
